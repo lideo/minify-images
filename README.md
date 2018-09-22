@@ -1,14 +1,14 @@
-#Description
+# Description
 
 A very simple script that optimizes large jpg and png images in a given folder. 
 
 It uses the [Sharp](https://github.com/lovell/sharp) Node module for the optimization.
 
-##Installation
+## Installation
 
     npm install
 
-##Usage
+## Usage
 
 Save the original images in the `/src/img` folder.
 
