@@ -48,7 +48,6 @@ walk.walk(options.entry, function(basedir, filename, stat, next) {
 
                     await sharp(filePath)
                         .resize(resizeWidth, resizeHeight)
-                        .max()
                         .jpeg({
                             quality: options.jpeg.quality,
                             progressive: options.jpeg.progressive,
