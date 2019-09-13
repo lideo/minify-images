@@ -18,4 +18,6 @@ The optimized files will be copied to a folder called `/img`.
 
 It also makes a copy of the images that don't need optimization.
 
-    
+## PNG
+
+PNG optimization is not working right now.
